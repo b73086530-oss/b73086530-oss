@@ -27,13 +27,62 @@ I believe in learning by doing, turning ideas into real projects, and growing on
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 
-<!-- Add only the languages you are currently learning or using -->
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" alt="Programming Languages" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cs" alt="Python, Java, C#" />
 </p>
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+* 🗃️ Learning Database concepts and SQL.
+* ☕ Learning how to connect Java applications to databases using JDBC.
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jupyter,visualstudio,vscode,git,github,mysql" alt="Development Tools" />
+</p>
+
+* 📓 **Jupyter Notebook** — Python and Machine Learning practice.
+* 💜 **Visual Studio** — Programming practice.
+* 💙 **Visual Studio Code** — Writing and editing code.
+* 🐙 **Git & GitHub** — Version control and project hosting.
+
+## 🤖 Current Learning Journey
+
+* 🐍 Python Programming.
+* ☕ Java Programming and Database Connectivity.
+* 💜 C# Programming.
+* 🗄️ Database Design and SQL.
+* 🤖 Machine Learning.
+* 📱 Application Development.
+* 🌐 Planning to learn Web Development.
+
+## 🤖 Current Learning Journey
+
+* 📊 Learning Machine Learning with Python.
+* 💻 Practicing Python, Java, and C#.
+* 📱 Working on application development.
+* 🌐 Planning to learn Web Development.
+* 🚀 Building practical projects and improving my skills.
+
+* 📓 **Jupyter Notebook** — Practicing Python and Machine Learning.
+* 💜 **Visual Studio** — Practicing programming.
+* 💙 **Visual Studio Code** — Writing and editing code.
+* 🐙 **Git & GitHub** — Version control and project hosting.
+
+## 🤖 Current Learning Journey
+
+* 📊 Learning Machine Learning with Python.
+* 💻 Practicing Python, Java, and C#.
+* 📱 Working on application development.
+* 🌐 Planning to learn Web Development.
+* 🚀 Building practical projects and improving my skills.
 
 ### 🤖 Machine Learning & Data Science
 
